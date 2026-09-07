@@ -38,7 +38,8 @@ Opens at http://localhost:8501.
 
 ## Companion pieces
 
-- RFC doc (Confluence): *RFC - CATEGORY SEARCH AUTOCOMPLETE*
+- RFC doc (Confluence): [*RFC - CATEGORY SEARCH AUTOCOMPLETE*](https://carousell.atlassian.net/wiki/spaces/~712020c118cc82aebf43c2a7492725f8246702/pages/4237819921/RFC+-+CATEGORY+SEARCH+AUTOCOMPLETE)
+- Artifact link : https://claude.ai/code/artifact/8b919745-a11f-47a7-a072-291f419233c4
 - Browser-based version of this same demo (no install needed): published as
   a Claude Artifact — good for a quick screen-share, this Streamlit app is
   better for live tinkering / projecting during the actual discussion.
